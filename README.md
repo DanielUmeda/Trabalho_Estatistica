@@ -11,7 +11,10 @@ Projeto final da disciplina de Estatística em que foram tratados dados socioeco
 * Análises de relação simples
 * Tabelas de Frequência
 * Matrizes de covariância e correlação
+* Teste de Regressão Linear
+* Análise ANOVA
+* Teste Chi-Quadrado
 
 ## Autores
 * [Daniel Umeda Kuhn](https://github.com/DanielUmedaKuhn)
-* [Manoel Thomaz Gama da Silva Neto]
+* [Manoel Thomaz Gama da Silva Neto](https://github.com/thneto1103)
