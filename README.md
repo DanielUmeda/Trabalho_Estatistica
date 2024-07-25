@@ -11,3 +11,7 @@ Projeto final da disciplina de Estatística em que foram tratados dados socioeco
 * Análises de relação simples
 * Tabelas de Frequência
 * Matrizes de covariância e correlação
+
+## Autores
+* [Daniel Umeda Kuhn](https://github.com/DanielUmedaKuhn)
+* [Manoel Thomaz Gama da Silva Neto]
